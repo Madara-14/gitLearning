@@ -1,6 +1,6 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+ 
 class twoStacks {
     int *arr;
     int size;
@@ -46,7 +46,10 @@ class twoStacks {
             return -1;
     }
 };
+ int fun() {
 
+    return 0; 
+ }
 int main() {
     twoStacks ts(5);  
     ts.push1(2);     
