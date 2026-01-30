@@ -47,7 +47,8 @@ class twoStacks {
     }
 };
  int fun() {
-
+          int a , b ; 
+    int c =  a + b ; 
     return 0; 
  }
 int main() {
